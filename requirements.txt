@@ -1,0 +1,7 @@
+langchain
+youtube-transcript-api
+langchain-openai
+langchain-community
+
+fastapi
+uvicorn
